@@ -72,11 +72,7 @@ Colleges, NGOs, and local communities who want a digital donation & resale servi
     <td align="center">
       🏠 <b>Home Page</b><br>
       <img src="https://github.com/user-attachments/assets/2608c99f-f90a-487e-8eb7-0b4a555e834b" width="250"/>
-    </td>
-    <td align="center">
-      📂 <b>Side Navigation Drawer</b><br>
-      <img src="https://github.com/user-attachments/assets/f8c8fd39-0826-4572-8d1b-ffb4b5fcd002" width="250"/>
-    </td>
+    
     <td align="center">
       ➕ <b>Add Product</b><br>
       <img src="https://github.com/user-attachments/assets/6836ba4e-a2ca-49f6-af4d-0beb2f1c874c" width="250"/>
